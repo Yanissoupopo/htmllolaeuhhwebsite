@@ -1,0 +1,89 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+
+header {
+
+    background-image: url(/img/background\ header.jpg);
+    height:150px;
+    background-size: 5000px;
+    border: none;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+
+div.banner {
+    background-image: url(/img/bannere.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border: none;
+    height: 100vh;
+    filter: blur(10px);
+    -webkit-filter: blur(5);
+}
+
+
+
+nav.main-header{
+    color: white;
+    align-items: center;
+    display: flex;
+    width: center;
+    height: 250px;
+    font-family: 'Qwitcher Grypen', cursive;
+}
+ 
+h1 {
+    font-size: 111px;
+    width: center;
+    height: center;
+
+}
+
+
+
+
+nav.main-header ul{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    width: center;
+    height: center;
+
+
+}
+
+nav.main-header a{
+    margin-left: 100px;
+    text-decoration: none;
+    background-color: rgba(107, 105, 105, 0.205);
+    margin-top: 5px;
+    width: center;
+    height: center;
+    padding: 10px;
+    font-family: 'Oooh Baby', cursive;
+    font-size: 30px;
+    display: inline-block;
+}
+
+img.planning{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border: none;
+    height: 100vh;
+
+}
+
+
+
+
+
